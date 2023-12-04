@@ -37,17 +37,13 @@
 }
 /* lato-bold - latin */
 @font-face {
-  font-family: 'Lato';
-  font-style: normal;
-  font-weight: 700;
-  src: url('font/lato-v15-latin-bold.eot'); /* IE9 Compat Modes */
-  src: local('Lato Bold'), local('Lato-Bold'),
-       url('font/lato-v15-latin-bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('font/lato-v15-latin-bold.woff2') format('woff2'), /* Super Modern Browsers */
-       url('font/lato-v15-latin-bold.woff') format('woff'), /* Modern Browsers */
-       url('font/lato-v15-latin-bold.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('font/lato-v15-latin-bold.svg#Lato') format('svg'); /* Legacy iOS */
-
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    src: url('font/lato-v15-latin-bold.eot'); /* IE9 Compat Modes */
+    src: local('Lato Bold'), local('Lato-Bold'),
+    url('font/lato-v15-latin-bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('font/lato-v15-latin-bold.woff2') format('woff2'), /* Super Modern Browsers */ url('font/lato-v15-latin-bold.woff') format('woff'), /* Modern Browsers */ url('font/lato-v15-latin-bold.ttf') format('truetype'), /* Safari, Android, iOS */ url('font/lato-v15-latin-bold.svg#Lato') format('svg'); /* Legacy iOS */
+}
 /*!
  * # Semantic UI 2.5.0 - Reset
  * http://github.com/semantic-org/semantic-ui/
